@@ -1,1 +1,1 @@
-# hophild_network
+# hopfield_network
